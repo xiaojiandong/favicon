@@ -5,6 +5,8 @@
 ![image](https://github.com/xiaojiandong/favicon/blob/master/img/view-icon.png)
 
 # 在header部分的代码
-```css
+```html
+   <head>
     <link rel="shortcut icon" href="img/mirror-favicon.ico"/>
+   </head>
 ```
