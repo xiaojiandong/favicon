@@ -11,7 +11,7 @@
    </head>
 ```
 
-# 效果图
+# 最终效果
 ![image](https://github.com/xiaojiandong/favicon/blob/master/img/view-icon.png)
 
 
